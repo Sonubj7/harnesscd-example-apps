@@ -6,7 +6,7 @@ service:
     spec:
       artifacts:
         primary:
-          primaryArtifactRef: <+input>
+          primaryArtifactRef: Todolist
           sources:
             - spec:
                 connectorRef: harness_artifactrepo
