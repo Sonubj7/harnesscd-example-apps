@@ -1,7 +1,7 @@
 pipeline:
   name: harness_ssh_pipeline
   identifier: harness_ssh_pipeline
-  projectIdentifier: default_project
+  projectIdentifier: Test
   orgIdentifier: default
   tags: {}
   stages:
