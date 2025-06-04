@@ -20,8 +20,8 @@ pipeline:
                 spec:
                   artifacts:
                     primary:
-                      primaryArtifactRef: <+input>
-                      sources: <+input>
+                      primaryArtifactRef: Todolist
+                      sources: Todolist
           environment:
             environmentRef: harnessdevenv
             deployToAll: false
