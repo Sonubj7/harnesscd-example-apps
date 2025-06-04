@@ -3,7 +3,7 @@ connector:
   identifier: harness_awsconnector
   description: ""
   orgIdentifier: default
-  projectIdentifier: default_project
+  projectIdentifier: Test
   type: Aws
   spec:
     credential:
