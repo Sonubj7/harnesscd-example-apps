@@ -4,7 +4,7 @@ infrastructureDefinition:
   description: ""
   tags: {}
   orgIdentifier: default
-  projectIdentifier: default_project
+  projectIdentifier: Test
   environmentRef: harnessdevenv
   deploymentType: Ssh
   type: SshWinRmAws
