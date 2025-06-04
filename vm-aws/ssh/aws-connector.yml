@@ -16,4 +16,4 @@ connector:
       spec:
         fixedBackoff: 0
         retryCount: 0
-    executeOnDelegate: false
+    executeOnDelegate: true
