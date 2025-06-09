@@ -1,6 +1,6 @@
 environment:
-  name: harnessdevenv
-  identifier: harnessdevenv
+  name: DEMO-PROJECT
+  identifier: DEV
   description: ""
   tags: {}
   type: PreProduction
